@@ -1,0 +1,51 @@
+header {
+    background-image: url("../IMG-20240329-WA0021.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+a {
+    color: white;
+}
+
+.layer {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100vh;
+    width: 100%;
+
+}
+
+.layer h1 {
+    font-size: 48px;
+    font-weight: 800;
+
+}
+
+.icons div {
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+main {}
+
+#about h2 {
+
+    font-size: 40px;
+    font-weight: 800;
+}
+
+#about h3 {
+
+    font-size: 80px;
+    z-index: -1;
+    color: #f1f1f1;
+    font-weight: 800;
+}
